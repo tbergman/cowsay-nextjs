@@ -28,5 +28,9 @@
     "cowsay"
   ],
   "author": "Eric Lin",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kamaros/cowsay-nextjs.git"
+  }
 }
