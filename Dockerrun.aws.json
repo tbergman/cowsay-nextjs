@@ -1,0 +1,11 @@
+{
+	"AWSEBDockerrunVersion": "1",
+	"Image": {
+		"Name": "kamaros/cowsay:aws",
+		"Update": "true"
+	},
+	"Ports": [{
+		"ContainerPort": "8080"
+	}],
+	"Logging": "/var/log/nginx"
+}
